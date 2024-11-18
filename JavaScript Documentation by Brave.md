@@ -65,7 +65,7 @@ greet("Alice"); // "Alice" is the argument passed to the greet function
 - To prevent that use `object.freeze()`. `const obj = Object.freeze({ name: "Brave" });`.
 > 
 
-# Operators in JavaScript:
+# Js Operators
 
 **1. Arithmetic Operators:**
 Arithmetic operators perform basic mathematical calculations.
@@ -182,7 +182,7 @@ const obj1 = { a: 1, b: 2 };
 const obj2 = { ...obj1, c: 3 }; // { a: 1, b: 2, c: 3 }
 ```
 
-# Variables:
+# Js Variables:
 
 Variables are used to store data that you want to use and manipulate in your programs. They give your code the ability to remember values and use them later. In JavaScript, you can declare variables using different keywords: `var`, `let`, and `const`.
 
@@ -251,7 +251,7 @@ In the second example, while you can't reassign the `person` variable itself, yo
 
 In general, it's a good practice to use `const` by default and only use `let` when you're sure the value will change.
 
-# Data Types:
+# Js Data Types:
 
 JavaScript has **8 data types**, categorized as **primitive** and **non-primitive (complex):**
 
@@ -382,7 +382,7 @@ mySet.add(20);
 - Functions are reusable blocks of code.
 - Advanced data types include Date, RegExp, Map, and Set.
 
-# Regular expressions:
+# Js Regular expressions:
 
 Regular expressions, often referred to as RegEx, are powerful patterns used for **string matching** and manipulation. They allow you to **search, replace, and validate strings based on specific patterns**. (Usually we don’t remember it when we need it, we just search on Internet)
 
