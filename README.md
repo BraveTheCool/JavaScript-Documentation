@@ -22,5 +22,5 @@ Comprehensive, beginner-friendly, and packed with basics to advanced topics.
 ## **📩 Contribute**  
 Have ideas? Found an issue? Open a pull request or submit an issue.  
 
-`Latest Update 11/18/2024`, **Happy Coding!** 💻  
+`Last Updated 11/18/2024`, **Happy Coding!** 💻  
 
