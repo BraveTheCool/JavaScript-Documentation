@@ -874,7 +874,7 @@ numbers.push(6);
 3. **`shift()` / `remove(0)`**
     - Removes the first element
     - **JS:** `arr.shift()`
-    - **Python:** `lst.pop(0)`
+    - **Python:** `lst.remove(0)`
 4. **`unshift()` / `insert(0, value)`**
     - Adds element at the beginning
     - **JS:** `arr.unshift(value)`
