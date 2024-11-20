@@ -1,4 +1,4 @@
-# JavaScript Documentation by [brave.dev](https://bravey.dev)
+# JavaScript Documentation by [bravey.dev](https://bravey.dev)
 
 JavaScript is a **multi-paradigm programming language**, meaning it supports multiple styles of programming, including **functional programming**, **object-oriented programming (OOP)**, and **procedural programming**. JavaScript is used for dynamic websites, web extensions, handling events, validating forms, manipulating the DOM, animations, asynchronous operations (API calls), building real-time apps, games, backend services (Node.js), and data visualization (e.g., Chart.js).
 
