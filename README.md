@@ -1,4 +1,4 @@
-# **JavaScript Documentation by [brave.dev](https://bravey.dev)**  
+# **JavaScript Documentation by [bravey.dev](https://bravey.dev)**  
 
 Comprehensive, beginner-friendly, and packed with basics to advanced topics.
 If it helps you, don't forget to give it a ***star*** and ***follow*** for more resources!
